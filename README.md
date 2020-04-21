@@ -1,4 +1,4 @@
-# Lesson 8.1 Review
+# Lesson 8.0 Review
 
 ## Essential Questions
 **1. What is the virtual DOM?**
@@ -17,7 +17,7 @@ Answer the following questions using the `index.html` and `app.js` files in this
 3. Create a component `Header` that takes a prop, `title` an renders it as `h1` element.
 
 4. Create a `Card` compenent based on this mock-up. 
-   ![card mock-up]('https://github.com/The-Marcy-Lab-School/do-now-8_0/blob/master/card.png').
+   ![card mock-up]('/card.png').
 
 5. Create a `NavBar` component. It should display an unordered list of page links. These links should be generated from an array of objects. The objects should have the page title as a key and the page hyperlink as the value.
    ```javascript
