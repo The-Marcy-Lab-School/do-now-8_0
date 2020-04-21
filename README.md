@@ -23,3 +23,6 @@ Answer the following questions using the `index.html` and `app.js` files in this
    ```javascript
    const pageData = [{"About": "/about"}, {"Our Team": "/team"}, {"Pricing": "/pricing"}];
    <NavBar pages={pageData} /`>
+
+## 
+<sup>[Review Lecture Video](https://zoom.us/rec/share/2NVVNe3O7UVLcI3UzWveBLUqJaDOX6a8gyYcqfEIyh2HLdlL5K1lVmQh8lTTKH2K)</sup>
