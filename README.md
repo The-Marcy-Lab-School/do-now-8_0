@@ -12,7 +12,7 @@ Answer the following questions using the `index.html` and `app.js` files in this
 
 1. Pull in React, ReactDOM, and Babel from a CDN.
 
-2. Without using JSX, create and render a React element. This element should render the words `Hello, World` as an `h1` HTML element. It should have a class of `"header"`.
+2. Without using JSX, create and render a React component. This component should render the words `Hello, World` as an `h1` HTML element. It should have a class of `"header"`.
 
 3. Create a component `Header` that takes a prop, `title` an renders it as `h1` element.
 
