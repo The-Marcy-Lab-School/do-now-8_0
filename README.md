@@ -14,7 +14,7 @@ Answer the following questions using the `index.html` and `app.js` files in this
 
 2. Create and render a React component. This component should render the words `Hello, World` as an `h1` HTML element. It should have a class of `"header"`.
 
-3. Create a funtional component `Header` that takes a prop, `title` an renders it as `h1` element.
+3. Create a funtional component `Header` that takes a prop, `title` an renders it as `h1` element. Render a `Header` on the page somewhere so you can check your work.
 
 4. Create a `Card` compenent based on this mock-up. 
    ![card mock-up](./card.png).
