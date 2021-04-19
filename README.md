@@ -1,6 +1,6 @@
 # Intro to React Review
 
-## Essential Questions
+## Short Response
 **1. What is the virtual DOM?**
 
 **2. What is a component?**
