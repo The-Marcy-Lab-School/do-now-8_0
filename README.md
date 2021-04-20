@@ -19,7 +19,7 @@ Answer the following questions using the `index.html` and `app.js` files in this
 4. Create a `Card` compenent based on this mock-up. Render it somwhere on your page.
    ![card mock-up](./card.png).
 
-5. Create a `NavBar` component. It should display an unordered list of page links. These links should be generated from an array of objects. The objects should have the page title as a key and the page hyperlink as the value. Render it somwhere on your page.
+5. Create a `NavBar` component. It should display an unordered list of page links. These links should be generated from an array of objects. 
    ```javascript
    const pageData = [{text: "About", link: "/about"}, {text: "Our Team", link: "/team"}, {text: "Pricing", link: "/pricing"}];
    <NavBar pages={pageData} />
